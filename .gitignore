@@ -1,0 +1,40 @@
+# Arquivos de configuração e ambiente
+src/.env
+.env
+src/.env.backup
+src/Homestead.json
+src/Homestead.yaml
+
+# Dependências
+src/vendor/
+src/node_modules/
+
+# Arquivos de IDE e editores
+.idea/
+.vscode/
+.fleet/
+.nova/
+.zed/
+src/.phpactor.json
+
+# Arquivos de cache e gerados
+src/.phpunit.cache/
+src/.phpunit.result.cache
+src/auth.json
+src/npm-debug.log
+src/yarn-error.log
+src/public/hot
+src/public/storage
+src/public/build
+src/storage/app/*.key
+src/storage/framework/cache/*
+src/storage/framework/sessions/*
+src/storage/framework/views/*
+src/storage/logs/*.log
+!src/storage/logs/.gitignore
+src/storage/pail/*
+!src/storage/pail/.gitignore
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
