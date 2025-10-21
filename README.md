@@ -1,10 +1,11 @@
-# Projeto To-Do Kanban (To-Do List)
+# Projeto Kanban (Portfólio)
 
 ![Screenshot da Aplicação](https://i.imgur.com/caK9JgQ.png)
 
-Um projeto que era para ser um To-Do mas acabou virando um kanban. Projeto feito para o teste do seguinte link
+Projeto de um quadro Kanban full-stack construído em Laravel. O backend expõe uma API RESTful para todas as operações CRUD, 
+enquanto o frontend (Blade e JavaScript) consome essa API para criar uma experiência de usuário dinâmica e sem 
+recarregamento de página.
 
-https://github.com/tecnologia-pguest/teste/tree/main
 
 ---
 ## ✨ Funcionalidades
